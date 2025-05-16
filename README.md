@@ -26,4 +26,4 @@ Problems Solved
 •	Provides, command-line tool for tracking personal to-do items. Easy to use!!
 •	Offers a clear demonstration of object-oriented design with Task and ToDoList classes.
 •	Gives visual reminder to do tasks, could be used for short tasks.
-![image](https://github.com/user-attachments/assets/f6ec39b1-3e4c-4179-a592-32bc059c824b)
+
