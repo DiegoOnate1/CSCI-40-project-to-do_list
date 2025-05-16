@@ -20,7 +20,7 @@ Functionality
 •	Add Task: Append a new task with a description.
 •	Mark’s Task Completed: Set a chosen task’s status to done.
 •	Shows Tasks: Show pending, completed, or all tasks in numbered form.
-•	Nice Input Handling: Flush extra input without using <limits> to avoid reading errors.
+•	Nice Input Handling: avoid reading errors.
 
 Problems Solved
 •	Provides, command-line tool for tracking personal to-do items. Easy to use!!
